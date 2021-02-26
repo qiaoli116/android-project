@@ -17,8 +17,9 @@ import com.holmesglen.lab05multiscreenapp.R;
 
 public class HomeActivity extends AppCompatActivity {
 
-    public enum RequestCode{ 
-        VIEW_DETAIL_REQUEST_CODE
+    public enum RequestCode{
+        VIEW_DETAIL_REQUEST_CODE,
+        New_code
     }
 
     @Override
